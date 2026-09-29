@@ -1,0 +1,17 @@
+{
+  "project_root": "",
+  "entrypoint": "ad.py",
+  "python": "",
+  "search_roots": [],
+  "defaults": {
+    "duration": 60,
+    "aspect_ratio": "9:16",
+    "platform": "short_video",
+    "resolution": [1080, 1920],
+    "fps": 24,
+    "language": "中文",
+    "style": "商业短视频",
+    "quality": "production",
+    "paid_generation": false
+  }
+}

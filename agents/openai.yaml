@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 广告导演"
+  short_description: "用现有广告 Pipeline 自动规划、生成、检查、继续和导出产品广告"
+  default_prompt: "使用 $ai-ad-director 做这个产品的60秒抖音广告。"

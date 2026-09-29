@@ -1,0 +1,8 @@
+# Machine-specific binding and runtime state
+config/project.json
+config/health.json
+config/sessions.json
+__pycache__/
+*.pyc
+.env
+*.log
